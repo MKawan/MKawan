@@ -36,9 +36,9 @@ I'm a dedicated developer with a strong background in electronics and programmin
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 </p>
 
-<!-- Linguagens -->
 <div align="center" style="display:flex;align-items:center;justify-content:center;gap:10px;flex-wrap:wrap;">
 
+  <!-- Top Langs -->
   <picture>
     <source
       srcset="https://github-readme-stats.vercel.app/api/top-langs?username=MKawan&show_icons=true&locale=en&layout=compact&theme=merko"
@@ -48,7 +48,7 @@ I'm a dedicated developer with a strong background in electronics and programmin
       srcset="https://github-readme-stats.vercel.app/api/top-langs?username=MKawan&show_icons=true&locale=en&layout=compact"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MKawan&show_icons=true&locale=en&layout=compact" alt="Top Langs" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MKawan&show_icons=true&locale=en&layout=compact" alt="Top Langs" style="height:200px;" />
   </picture>
 
   <!-- Stats -->
@@ -61,7 +61,7 @@ I'm a dedicated developer with a strong background in electronics and programmin
       srcset="https://github-readme-stats.vercel.app/api?username=MKawan&show_icons=true&locale=en"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api?username=MKawan&show_icons=true&locale=en" alt="MKawan Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=MKawan&show_icons=true&locale=en" alt="MKawan Stats" style="height:200px;" />
   </picture>
 
   <!-- Streak -->
@@ -74,7 +74,7 @@ I'm a dedicated developer with a strong background in electronics and programmin
       srcset="https://streak-stats.demolab.com?user=MKawan"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://streak-stats.demolab.com?user=MKawan" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=MKawan" alt="GitHub Streak" style="height:200px;" />
   </picture>
 
 </div>
