@@ -36,11 +36,49 @@ I'm a dedicated developer with a strong background in electronics and programmin
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MKawan&show_icons=true&locale=en&layout=compact" alt="MKawan" /></p>
+<!-- Linguagens -->
+<div align="center" style="display:flex;align-items:center;justify-content:center;gap:10px;flex-wrap:wrap;">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MKawan&show_icons=true&locale=en" alt="MKawan" /></p>
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=MKawan&show_icons=true&locale=en&layout=compact&theme=merko"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=MKawan&show_icons=true&locale=en&layout=compact"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MKawan&show_icons=true&locale=en&layout=compact" alt="Top Langs" />
+  </picture>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MKawan&" alt="MKawan" /></p>
+  <!-- Stats -->
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=MKawan&show_icons=true&locale=en&theme=merko"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=MKawan&show_icons=true&locale=en"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=MKawan&show_icons=true&locale=en" alt="MKawan Stats" />
+  </picture>
+
+  <!-- Streak -->
+  <picture>
+    <source
+      srcset="https://streak-stats.demolab.com?user=MKawan&theme=merko"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://streak-stats.demolab.com?user=MKawan"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://streak-stats.demolab.com?user=MKawan" alt="GitHub Streak" />
+  </picture>
+
+</div>
+
 
 <!DOCTYPE html>
 <html lang="en">
