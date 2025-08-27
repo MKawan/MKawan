@@ -13,10 +13,33 @@ I'm a dedicated developer with a strong background in electronics and programmin
 
 ### Connect with me:
 <p align="left">
-<a href="https://www.linkedin.com/in/mateus-oliveira-30855a242/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mateus Oliveira" height="30" width="40" style="margin-right: 15px;" /></a>
-<a href="https://www.dio.me/users/mateus77kawan" target="blank"><img align="center" src="https://assets.dio.me/VTgUqMiPAIgvsFdSvgSnVAB5lrqnNxY_N8h8LknnQys/f:webp/q:80/w:120/L2Fzc2V0cy9kaW9tZS9sb2dvLWZ1bGwuc3Zn" alt="Mateus Oliveira" height="30" width="40" style="margin-right: 15px;" /></a>
-<a href="https://github.com/MKawan" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="MKawan" height="30" width="40" style="margin-right: 15px;" /></a>
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/mateus-oliveira-30855a242/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - Mateus Oliveira" height="30" width="40" />
+  </a>&nbsp;&nbsp;
+  
+  <!-- DIO -->
+  <a href="https://www.dio.me/users/mateus77kawan" target="blank">
+    <img align="center" src="https://assets.dio.me/VTgUqMiPAIgvsFdSvgSnVAB5lrqnNxY_N8h8LknnQys/f:webp/q:80/w:120/L2Fzc2V0cy9kaW9tZS9sb2dvLWZ1bGwuc3Zn" alt="DIO - Mateus Oliveira" height="30" width="40" />
+  </a>&nbsp;&nbsp;
+  
+  <!-- GitHub -->
+  <a href="https://github.com/MKawan" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub - MKawan" height="30" width="40" />
+  </a>&nbsp;&nbsp;
+
+  <!-- Gmail -->
+  <a href="mailto:mateusoliveira.cursos@gmail.com" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="Gmail - Mateus Oliveira" height="30" width="40" />
+  </a>&nbsp;&nbsp;
+
+  <!-- Outlook -->
+  <a href="mailto:mateusoliveira.cursos@outlook.com" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftoutlook.svg" alt="Outlook - Mateus Oliveira" height="30" width="40" />
+  </a>
 </p>
+
+
 
 ### Languages and Tools:
 <p align="left">
