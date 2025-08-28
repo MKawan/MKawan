@@ -118,9 +118,9 @@ I'm a dedicated developer with a strong background in electronics and programmin
   </picture>
 
   <!-- Streak -->
-<!-- Dark mode -->
-![GitHub Streak Dark](https://streak-stats.demolab.com?user=MKawan&theme=merko&hide_border=true#gh-dark-mode-only)
-
+<picture>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=MKawan&theme=merko&hide_border=true"     alt="GitHub Streak" /></a>
+</picture>
 
 <!DOCTYPE html>
 <html lang="en">
