@@ -119,15 +119,15 @@ I'm a dedicated developer with a strong background in electronics and programmin
 
   <!-- Streak -->
   <picture>
-    <source
-      srcset="https://streak-stats.demolab.com?user=MKawan&theme=merko"
-      media="(prefers-color-scheme: dark)"
+    <source 
+      srcset="https://streak-stats.demolab.com?user=MKawan&theme=merko&hide_border=true" 
+      media="(prefers-color-scheme: dark)" 
     />
-    <source
-      srcset="https://streak-stats.demolab.com?user=MKawan"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    <source 
+      srcset="https://streak-stats.demolab.com?user=MKawan&theme=default&hide_border=true" 
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" 
     />
-    <img src="https://streak-stats.demolab.com?user=MKawan" alt="GitHub Streak" style="height:200px;" />
+    <img src="https://streak-stats.demolab.com?user=MKawan&theme=default&hide_border=true" height="200" />
   </picture>
 
 </div>
