@@ -117,8 +117,9 @@ I'm a dedicated developer with a strong background in electronics and programmin
     <img src="https://github-readme-stats.vercel.app/api?username=MKawan&show_icons=true&locale=en" alt="MKawan Stats" style="height:200px;" />
   </picture>
 
-  <!-- Streak -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=MKawan&theme=merko&hide_border=true&short_numbers=true&card_height=200)](https://git.io/streak-stats)
+<div>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=MKawan&theme=merko&hide_border=true&short_numbers=true&card_height=200" alt="GitHub Streak" /></a>
+</div>
 
 <!DOCTYPE html>
 <html lang="en">
