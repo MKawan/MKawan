@@ -105,18 +105,6 @@ I'm a dedicated developer with a strong background in electronics and programmin
   </picture>
 
   <!-- Stats -->
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=MKawan&show_icons=true&locale=en&theme=merko"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=MKawan&show_icons=true&locale=en"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api?username=MKawan&show_icons=true&locale=en" alt="MKawan Stats" style="height:200px;" />
-  </picture>
-
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MKawan&show_icons=true&theme=merko&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
 
 
