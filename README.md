@@ -104,7 +104,8 @@ I'm a dedicated developer with a strong background in electronics and programmin
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MKawan&show_icons=true&locale=en&layout=compact" alt="Top Langs" style="height:200px;" />
   </picture>
 
-![Meus GitHub stats](https://github-readme-stats.vercel.app/api?username=MKawan&show_icons=true&theme=merko&hide_rank=true)
+<!-- Stats card com ícone do GitHub -->
+![Meus GitHub stats](https://github-readme-stats.vercel.app/api?username=MKawan&show_icons=true&theme=merko&rank_icon=github)
 
   <!-- Stats -->
 <!DOCTYPE html>
