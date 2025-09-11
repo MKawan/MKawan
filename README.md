@@ -6,7 +6,7 @@
 
 I'm a dedicated developer with a strong background in electronics and programming, sparked by my teenage years working alongside my physicist uncle. My curiosity drives me to create innovative solutions, from controlling devices remotely to building complex full-stack applications. I thrive on the challenge of turning ideas into functional projects, finding immense satisfaction in seeing my creations come to life.
 
-- 🔭 See my projects like **InfoSys, frontend-spider-man-multiverses-react-vite, expanse-os, chats-ee2e-bd-cassandra-springboot, and more**
+- 🔭 See my projects like **InfoSys, frontend-spider-man-multiverses-react-vite, expanse-os, chats-ee2e-bd-cassandra-springboot, and ![more](https://github.com/MKawan?tab=repositories).**
 - 🌱 I’m currently trabalho with **AI, React, React Native, Spring Boot, and advanced TypeScript, Java and Python**
 - 💡 I’m passionate about **combining creativity with technical precision to solve real-world problems**
 - ⚡ Fun fact: **I started coding as a teenager inspired by tinkering with electronics, and I still love the thrill of a project finally working!**
