@@ -54,15 +54,21 @@ I'm a dedicated developer with a strong background in electronics and programmin
   </a>&nbsp;&nbsp;
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
-    <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/dart-original.svg" alt="dart" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/flutter-original.svg" alt="flutter" width="40" height="40"/>
+<a href="https://dart.dev" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg"
+       alt="dart" width="40" height="40"/>
+</a>&nbsp;&nbsp;
+
+<a href="https://react.dev" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
+       alt="react" width="40" height="40"/>
+</a>&nbsp;&nbsp;
+
+<a href="https://flutter.dev" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg"
+       alt="flutter" width="40" height="40"/>
+</a>
+
   </a>&nbsp;&nbsp;
   <a href="https://spring.io/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
