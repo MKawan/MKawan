@@ -111,15 +111,16 @@ I'm a dedicated developer with a strong background in electronics and programmin
 
 
 
-<div align="center" style="display:flex;align-items:center;justify-content:center;gap:10px;flex-wrap:wrap;">
-
 <div align="center">
 
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MKawan&show_icons=true&theme=merko&rank_icon=github&cache_seconds=86400" />
+  <img height="180em"
+       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MKawan&show_icons=true&theme=merko&rank_icon=github" />
 
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=MKawan&layout=compact&theme=merko&cache_seconds=86400" />
+  <img height="180em"
+       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=MKawan&layout=compact&theme=merko" />
 
 </div>
+
 
   <!-- Stats -->
 <!DOCTYPE html>
