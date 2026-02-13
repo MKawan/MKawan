@@ -113,21 +113,13 @@ I'm a dedicated developer with a strong background in electronics and programmin
 
 <div align="center" style="display:flex;align-items:center;justify-content:center;gap:10px;flex-wrap:wrap;">
 
-  <!-- Top Langs -->
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=MKawan&show_icons=true&locale=en&layout=compact&theme=merko"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=MKawan&show_icons=true&locale=en&layout=compact"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MKawan&show_icons=true&locale=en&layout=compact" alt="Top Langs" style="height:200px;" />
-  </picture>
+<div align="center">
 
-<!-- Stats card com ícone do GitHub -->
-![Meus GitHub stats](https://github-readme-stats.vercel.app/api?username=MKawan&show_icons=true&theme=merko&rank_icon=github)
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MKawan&show_icons=true&theme=merko&rank_icon=github&cache_seconds=86400" />
+
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=MKawan&layout=compact&theme=merko&cache_seconds=86400" />
+
+</div>
 
   <!-- Stats -->
 <!DOCTYPE html>
