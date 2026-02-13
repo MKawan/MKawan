@@ -109,19 +109,6 @@ I'm a dedicated developer with a strong background in electronics and programmin
 </p>
 
 
-
-
-<div align="center">
-
-  <img height="180em"
-       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MKawan&show_icons=true&theme=merko&rank_icon=github" />
-
-  <img height="180em"
-       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=MKawan&layout=compact&theme=merko" />
-
-</div>
-
-
   <!-- Stats -->
 <!DOCTYPE html>
 <html lang="en">
