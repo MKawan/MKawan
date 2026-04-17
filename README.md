@@ -42,7 +42,7 @@ I'm a dedicated developer with a strong background in electronics and programmin
 
 
 ### Languages and Tools:
-<p >
+<p align="left">
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="35" height="35"/>
   </a>&nbsp;&nbsp;
