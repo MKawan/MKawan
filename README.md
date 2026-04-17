@@ -21,7 +21,7 @@ I'm a dedicated developer with a strong background in electronics and programmin
   <!-- DIO -->
   <a href="https://www.dio.me/users/mateus77kawan" target="blank">
     <img align="center" src="https://assets.dio.me/VTgUqMiPAIgvsFdSvgSnVAB5lrqnNxY_N8h8LknnQys/f:webp/q:80/w:120/L2Fzc2V0cy9kaW9tZS9sb2dvLWZ1bGwuc3Zn" alt="DIO - Mateus Oliveira" height="30" width="40" />
-  </a>&nbsp;&nbsp;
+  </a>
   
   <!-- GitHub -->
   <a href="https://github.com/MKawan" target="blank">
