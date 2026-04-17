@@ -21,7 +21,7 @@ I'm a dedicated developer with a strong background in electronics and programmin
   <!-- DIO -->
   <a href="https://www.dio.me/users/mateus77kawan" target="blank">
     <img align="center" src="https://assets.dio.me/VTgUqMiPAIgvsFdSvgSnVAB5lrqnNxY_N8h8LknnQys/f:webp/q:80/w:120/L2Fzc2V0cy9kaW9tZS9sb2dvLWZ1bGwuc3Zn" alt="DIO - Mateus Oliveira" height="30" width="40" />
-  </a>
+  </a>&nbsp;&nbsp;
   
   <!-- GitHub -->
   <a href="https://github.com/MKawan" target="blank">
@@ -42,7 +42,7 @@ I'm a dedicated developer with a strong background in electronics and programmin
 
 
 ### Languages and Tools:
-<p align="left">
+<div align="left">
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="35" height="35"/>
   </a>&nbsp;&nbsp;
@@ -106,7 +106,7 @@ I'm a dedicated developer with a strong background in electronics and programmin
   <a href="https://postman.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="35" height="35"/>
   </a>
-</p>
+</div>
 
 
   <!-- Stats -->
