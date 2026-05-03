@@ -12,7 +12,6 @@ I'm a dedicated developer with a strong background in electronics and programmin
 - ⚡ Fun fact: **I started coding as a teenager inspired by tinkering with electronics, and I still love the thrill of a project finally working!**
 
 ### Connect with me:
-### Connect with me:
 
 <table>
   <tr>
