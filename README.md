@@ -12,13 +12,38 @@ I'm a dedicated developer with a strong background in electronics and programmin
 - ⚡ Fun fact: **I started coding as a teenager inspired by tinkering with electronics, and I still love the thrill of a project finally working!**
 
 ### Connect with me:
-<p align="left">
-  <a href="https://www.linkedin.com/in/mateus-oliveira-30855a242/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="https://www.dio.me/users/mateus77kawan" target="blank"><img src="https://assets.dio.me/VTgUqMiPAIgvsFdSvgSnVAB5lrqnNxY_N8h8LknnQys/f:webp/q:80/w:120/L2Fzc2V0cy9kaW9tZS9sb2dvLWZ1bGwuc3Zn" alt="DIO" height="30" width="40" /></a>
-  <a href="https://github.com/MKawan" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" height="30" width="40" /></a>
-</p>
+### Connect with me:
 
-### Languages and Tools:
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/mateus-oliveira-30855a242/" target="blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.dio.me/users/mateus77kawan" target="blank">
+        <img src="https://assets.dio.me/VTgUqMiPAIgvsFdSvgSnVAB5lrqnNxY_N8h8LknnQys/f:webp/q:80/w:120/L2Fzc2V0cy9kaW9tZS9sb2dvLWZ1bGwuc3Zn" alt="DIO" height="30" width="40" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/MKawan" target="blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" height="30" width="40" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="mailto:mateusoliveira.cursos@gmail.com" target="blank">
+        <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="Gmail" height="30" width="40" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="mailto:mateusoliveira.cursos@outlook.com" target="blank">
+        <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftoutlook.svg" alt="Outlook" height="30" width="40" />
+      </a>
+    </td>
+  </tr>
+</table>
+
 ### Languages and Tools:
 
 <table>
