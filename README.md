@@ -17,7 +17,10 @@ I'm a dedicated developer with a strong background in electronics and programmin
   <a href="https://www.dio.me/users/mateus77kawan" target="blank"><img src="https://assets.dio.me/VTgUqMiPAIgvsFdSvgSnVAB5lrqnNxY_N8h8LknnQys/f:webp/q:80/w:120/L2Fzc2V0cy9kaW9tZS9sb2dvLWZ1bGwuc3Zn" alt="DIO" height="30" width="40" /></a>
   <a href="https://github.com/MKawan" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" height="30" width="40" /></a>
 </p>
-
+  <!-- Stats -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
 ### Languages and Tools:
 <p align="left">
 <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="35" height="35"/></a>&nbsp;&nbsp;
@@ -37,10 +40,7 @@ I'm a dedicated developer with a strong background in electronics and programmin
 <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="35" height="35"/></a>&nbsp;&nbsp;
 <a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="35" height="35"/></a>
 </p>
-  <!-- Stats -->
-<!DOCTYPE html>
-<html lang="en">
-<head>
+
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     
