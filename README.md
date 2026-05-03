@@ -12,7 +12,7 @@ I'm a dedicated developer with a strong background in electronics and programmin
 - ⚡ Fun fact: **I started coding as a teenager inspired by tinkering with electronics, and I still love the thrill of a project finally working!**
 
 ### Connect with me:
-<p align="left">
+<div align="left">
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/mateus-oliveira-30855a242/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - Mateus Oliveira" height="30" width="40" />
@@ -37,7 +37,7 @@ I'm a dedicated developer with a strong background in electronics and programmin
   <a href="mailto:mateusoliveira.cursos@outlook.com" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftoutlook.svg" alt="Outlook - Mateus Oliveira" height="30" width="40" />
   </a>
-</p>
+</div>
 
 
 
